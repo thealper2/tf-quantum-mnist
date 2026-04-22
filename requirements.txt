@@ -1,0 +1,9 @@
+cirq==1.6.1
+matplotlib==3.10.8
+numpy==2.4.4
+scikit_learn==1.8.0
+seaborn==0.13.2
+sympy==1.14.0
+tensorflow==2.21.0
+tensorflow_quantum==0.7.6
+tf_nightly==2.22.0.dev20260227
